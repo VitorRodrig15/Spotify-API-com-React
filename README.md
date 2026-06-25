@@ -40,6 +40,8 @@ Demosntrando a parte do backend funcionando no navegador pelo console, após a p
 
 ![Console](Console.png)
 
+*Descrição:* Funcionalidades da API em funcionamento após digitar alguma pesquisa, mostrando os resultados e informações complementares como capa, nome, artista e outros dados.
+
 ---
 
 ## 🧠 Aprendizados e Desafios Superados
