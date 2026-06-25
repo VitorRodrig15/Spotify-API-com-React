@@ -17,14 +17,14 @@ Para a construção desta aplicação, utilizei como base informações de tutor
 ### 🔍 Busca e Exibição de Álbuns de Artistas
 Ao digitar o nome de um artista (como *Eminem*), o sistema identifica seu ID único e renderiza um grid com as capas e títulos oficiais de até 50 álbuns.
 
-![Artistas do álbum](Artistas do álbum.png)
+![Artistas_album](Artistas_album.png)
 
 *Descrição:* Tela principal consumindo o endpoint de busca (`/search`) e o de álbuns (`/artists/{id}/albums`), estilizada com cartões responsivos do React Bootstrap.
 
 ### 🎵 Músicas e Faixas (Tracks)
 Visualização detalhada das músicas que compõem cada álbum listado.
 
-![Músicas](Músicas.png)
+![Musicas](Musicas.png)
 
 *Descrição:* Interface planejada para exibir os nomes das faixas, duração e número de reprodução de acordo com os dados obtidos da API.
 
