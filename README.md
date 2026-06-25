@@ -17,23 +17,28 @@ Para a construção desta aplicação, utilizei como base informações de tutor
 ### 🔍 Busca e Exibição de Álbuns de Artistas
 Ao digitar o nome de um artista (como *Eminem*), o sistema identifica seu ID único e renderiza um grid com as capas e títulos oficiais de até 50 álbuns.
 
-![Busca de Álbuns](Artistas do álbum.png)
+![Artistas do álbum](Artistas do álbum.png)
 
 *Descrição:* Tela principal consumindo o endpoint de busca (`/search`) e o de álbuns (`/artists/{id}/albums`), estilizada com cartões responsivos do React Bootstrap.
 
 ### 🎵 Músicas e Faixas (Tracks)
 Visualização detalhada das músicas que compõem cada álbum listado.
 
-![Listagem de Músicas](https://via.placeholder.com/800x400?text=Sua+Imagem+da+Lista+de+Musicas+Aqui)
+![Músicas](Músicas.png)
 
 *Descrição:* Interface planejada para exibir os nomes das faixas, duração e número de reprodução de acordo com os dados obtidos da API.
 
 ### 📋 Playlists Buscaveis
 Seção voltada para a curadoria de playlists baseadas nos resultados obtidos.
 
-![Playlists](https://via.placeholder.com/800x400?text=Sua+Imagem+das+Playlists+Aqui)
+![Playlists](Playlists.png)
 
 *Descrição:* Organização de listas de reprodução dinâmicas geradas a partir da integração com os dados do perfil do usuário na API do Spotify.
+
+### 🛠️ Console do navegador
+Demosntrando a parte do backend funcionando no navegador pelo console, após a pesquisa via API.
+
+![Console](Console.png)
 
 ---
 
