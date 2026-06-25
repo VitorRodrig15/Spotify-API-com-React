@@ -17,7 +17,7 @@ Para a construção desta aplicação, utilizei como base informações de tutor
 ### 🔍 Busca e Exibição de Álbuns de Artistas
 Ao digitar o nome de um artista (como *Eminem*), o sistema identifica seu ID único e renderiza um grid com as capas e títulos oficiais de até 50 álbuns.
 
-![Artistas_album](Artistas_album.png)
+![Album_Artistas](Album_Artistas.png)
 
 *Descrição:* Tela principal consumindo o endpoint de busca (`/search`) e o de álbuns (`/artists/{id}/albums`), estilizada com cartões responsivos do React Bootstrap.
 
