@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Licença](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 Este projeto foi desenvolvido como parte do meu processo de **aprendizado com o React**. A aplicação se conecta à API oficial do Spotify para buscar artistas e listar seus álbuns em uma interface responsiva, moderna e organizada com o Bootstrap.
 
@@ -18,7 +17,7 @@ Para a construção desta aplicação, utilizei como base informações de tutor
 ### 🔍 Busca e Exibição de Álbuns de Artistas
 Ao digitar o nome de um artista (como *Eminem*), o sistema identifica seu ID único e renderiza um grid com as capas e títulos oficiais de até 50 álbuns.
 
-![Busca de Álbuns](https://via.placeholder.com/800x400?text=Sua+Imagem+da+Busca+de+Albuns+Aqui)
+![Busca de Álbuns](Artistas do álbum.png)
 
 *Descrição:* Tela principal consumindo o endpoint de busca (`/search`) e o de álbuns (`/artists/{id}/albums`), estilizada com cartões responsivos do React Bootstrap.
 
