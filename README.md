@@ -79,9 +79,7 @@ npm install
 npx create-react-app
 
 4. **Configure suas credenciais**:
-Abra o arquivo src/App.js e insira suas chaves nos campos correspondentes
-e no app.js utilize o git com suas credenciais de aoi geradas no Spotify:
-
+Abra o arquivo src/App.js e insira suas chaves nos campos correspondentes e no app.js utilize o git com suas credenciais de aoi geradas no Spotify:
 const CLIENT_ID = "SUA_CLIENT_ID_AQUI";
 const CLIENT_SECRET = "SEU_CLIENT_SECRET_AQUI";
 
