@@ -19,6 +19,10 @@ Ao digitar o nome de um artista (como *Eminem*), o sistema identifica seu ID ún
 
 ![Album_Artistas](Album_Artistas.png)
 
+Ao clicar no botão ver músicas(album ou playlists) ele abrira uma listagem com todas as musicas incluidas.
+
+![Musicas_botao](Musicas_botao.png)
+
 *Descrição:* Tela principal consumindo o endpoint de busca (`/search`) e o de álbuns (`/artists/{id}/albums`), estilizada com cartões responsivos do React Bootstrap.
 
 ### 🎵 Músicas e Faixas (Tracks)
